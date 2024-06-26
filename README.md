@@ -1,9 +1,4 @@
-# 2022-2023 Portfolio
-#### Ericson Ho
-[linkedin](https://www.linkedin.com/in/ericson-ho-28b85a265/)
 
-This portfolio is a collection of my selected projects
-***
 
 ### [Analyzing Jeopardy Data Using Chi-Squared Test](https://github.com/ChungYuEricson/ChungYuEricson-Portfolio/blob/main/JEOPARDY/Jeopardy.ipynb)
 
